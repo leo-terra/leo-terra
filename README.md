@@ -2,8 +2,8 @@
 
 ### Bioinformata | Embrapa Soja | Inovação em Bioinsumos  
 
-Sou **bioinformata** e desenvolvedor de ferramentas para **bioinformática e genômica microbiana**, com foco em **Bradyrhizobium** e **Azospirillum** — microrganismos promotores de crescimento vegetal.  
-Atualmente, desenvolvo o projeto **[UniPrimer](https://github.com/leo-terra/uniprimer)**, uma ferramenta para **identificação de regiões únicas e conservadas, e desenho de primers específicos** aplicados a inoculantes agrícolas e diagnóstico molecular.
+Sou **bioinformata** e desenvolvedor de ferramentas para **bioinformática e genômica microbiana**, com foco em *Bradyrhizobium* e *Azospirillum* — microrganismos promotores de crescimento vegetal.  
+Atualmente, desenvolvo o projeto **[UniPrimer](https://github.com/leo-terra/uniprimer)**, uma ferramenta para **identificação de regiões únicas, regiões conservadas e checagem de primers específicos** aplicados a inoculantes agrícolas e diagnóstico molecular.
 
 ---
 
@@ -19,7 +19,7 @@ Atualmente, desenvolvo o projeto **[UniPrimer](https://github.com/leo-terra/unip
 ### Projetos em destaque
 | Projeto | Descrição |
 |----------|------------|
-| [UniPrimer](https://github.com/leo-terra/uniprimer) | Ferramenta para identificação de regiões únicas e conservadas, e checagem de primers específicos. |
+| [uniprimer](https://github.com/leo-terra/uniprimer) | Ferramenta para identificação de regiões únicas e conservadas, e checagem de primers específicos. |
 
 ---
 
